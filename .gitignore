@@ -1,0 +1,39 @@
+ # Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Django
+db.sqlite3
+media/
+staticfiles/
+*.pot
+*.pyc
+
+# Model files
+*.h5
+*.hdf5
+*.pth
+*.pkl
+
+# Virtual environments
+venv/
+venv_new/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Git
+.git/
